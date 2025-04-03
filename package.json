@@ -2,7 +2,7 @@
   "name": "reactjs1",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+ 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,5 +10,9 @@
   "license": "ISC",
   "devDependencies": {
     "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
   }
 }
